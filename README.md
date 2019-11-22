@@ -9,6 +9,10 @@ Dosen ngasih tugas untuk membuat aplikasi jualan pulsa yang ditampung dengan var
 -Cocok untuk pembelajaran
 
 ## Ketentuan
+
+Diskon 30%  didapat jika jumlah pembelian lebih dari 3
+
+
 ![alt text](https://raw.githubusercontent.com/firmnardians/jualan-pulsa-boongan/master/1.png)
 
 ![alt text](https://raw.githubusercontent.com/firmnardians/jualan-pulsa-boongan/master/sc.png)
@@ -16,4 +20,3 @@ Dosen ngasih tugas untuk membuat aplikasi jualan pulsa yang ditampung dengan var
 
 
 
-Diskon 30%  didapat jika jumlah pembelian lebih dari 3
